@@ -1,5 +1,10 @@
 {
   "files.associations": {
-    "main_view.h": "c"
+    "header.h": "c",
+    "termios.h": "c",
+    "unistd.h": "c",
+    "stdio.h": "c",
+    "hidden_scan.h": "c",
+    "password_manager.h": "c"
   }
 }

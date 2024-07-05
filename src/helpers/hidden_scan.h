@@ -1,0 +1,1 @@
+void hidden_scan(char *value, int size);
