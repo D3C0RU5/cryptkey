@@ -5,6 +5,10 @@
     "unistd.h": "c",
     "stdio.h": "c",
     "hidden_scan.h": "c",
-    "password_manager.h": "c"
+    "password_manager.h": "c",
+    "stdlib.h": "c",
+    "database.h": "c",
+    "typeinfo": "c",
+    "string.h": "c"
   }
 }
